@@ -1,0 +1,28 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "manufacturer": "Apple",
+        "model": "Iphone 15 PRO MAX",
+        "price": 3500
+      },
+      {
+        "id": 2,
+        "manufacturer": "Xiaomi",
+        "model": "MI 14 Ultra",
+        "price": 3000
+      },
+      {
+        "id": 3,
+        "manufacturer": "Samsung",
+        "model": "Galaxy S23 Ultra",
+        "price": 4000
+      },
+      {
+        "id": 4,
+        "manufacturer": "OnePlus",
+        "model": "Hansisa Ultra Pro Max",
+        "price": 2500
+      }
+    ]
+}
